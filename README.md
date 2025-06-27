@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Arjun, I am a UPenn Masters student studying Computer and Information Technology who is interested in all things python and machine learning. 
-- 🔭 I’m currently working for SAS as a product strategy intern, where I develope technical documentation for software projects and develop agents for demo purposes.   
+- 🔭 I’m currently working for SAS as a product strategy intern, where I create technical documentation for software projects and develop RAG agents for client demo purposes.   
 - 🌱 I’m currently learning and experimenting with machine learning algorithms and AI libraries such as PyTorch and TensorFlow.
 - 👯 I’m looking to gain professional experience in the software engineering industry. I am eager to combine my professional experience as a mechanical engineer and sharpend skills as a software engineer to an innovative and collaborative team!
 <!--
